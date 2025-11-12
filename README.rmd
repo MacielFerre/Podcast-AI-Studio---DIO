@@ -1,3 +1,5 @@
+# Podcast -> "Jedi Data: Domine a força dos dados"
+
 # Podcast-AI-Studio---DIO
 Projeto Podcast Gerado por I.A.s com a DIO
 
@@ -14,3 +16,6 @@ Capcut
 Roteiro e arte da capa gerados via chatgpt
 Audio gerado pela elevenLabs
 Capcut para tratar aúdio e adicionar sons de fundo
+
+
+
